@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "我是第一份草稿!"
+title:  "cygwin git difftool设置"
 categories: blog
 date: 2015/12/10 19:12:21
 ---
