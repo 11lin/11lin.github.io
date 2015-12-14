@@ -46,7 +46,7 @@ git difftool对比能打开bc，只显示了当前源文件。
 上网查了查，居然网上没有资料。
 
 我想是不是路径没有识别出来。写了shell名字叫git-diff.sh放在D:/Beyond Compare 4/目录下:
-{% highlight shell linenos %}
+{% highlight sh linenos %}
 #!/bin/sh
 for var in $@; do
 	echo $var
