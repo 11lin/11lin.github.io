@@ -22,9 +22,9 @@ date: 2015/12/10 19:12:10
 
 #####4.我觉得本身写md就乐在其中
 
-#####5.github支持jekyll，只管写md，好了git上传。
+#####5.github支持jekyll，只管写md，然后git上传。
 
 ______
 有什么意见或者建议你可以提，反正我也不会做。。。
 
-[jekyll 3.x]: http://jekyllcn.com/
+[jekyll-3.x]: http://jekyllcn.com/
