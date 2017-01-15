@@ -9,11 +9,11 @@
 title: chipscode
 email: jcfss@126.com
 description: > # this means to ignore newlines until "baseurl:"
-  经验是一点一点累计起来的，要记录下来！
+  累积起来才有意义
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "5le.club" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "blog.nexwo.com" # the base hostname & protocol for your site
+twitter_username: chipscode
+github_username:  chipscode
 
 excerpt_separator: "" #或设置成不敏感的字符。
 # Build settings
